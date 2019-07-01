@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>MaterialIcons-Regular.ttf</file>
+        <file>qml/App/MaterialDesignIcons.qml</file>
+        <file>qml/App/qmldir</file>
+    </qresource>
+</RCC>

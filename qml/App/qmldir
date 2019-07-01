@@ -1,0 +1,3 @@
+module App
+singleton MaterialDesignIcons 1.0 MaterialDesignIcons.qml
+
